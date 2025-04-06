@@ -1,0 +1,27 @@
+# Byte‑compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Test cache
+.pytest_cache/
+
+# Virtual environments
+venv-test/
+venv/
+.env/
+.venv/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Local config
+pypirc
+*.cfg
